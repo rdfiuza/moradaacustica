@@ -1,1 +1,1 @@
-document.querySelector("p").textContent = "olá"
+//document.querySelector("p").textContent = "olá"
